@@ -10,8 +10,8 @@ Interests:
 
 Selected Projects
 - Robust Classification Under Noisy Labels
-- MNIST Digit Classifier
-- Sentiment Analysis
+- Decision Tree
+- Neural Networks
 
 Tools
 Python, Scikit‑Learn, PyTorch, Pandas, NumPy
