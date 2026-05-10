@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Maryam. Machine Learning & AI enthusiast.
+
+Interests:
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Science
+
+Selected Projects
+- Robust Classification Under Noisy Labels
+- MNIST Digit Classifier
+- Sentiment Analysis
+
+Tools
+Python, Scikit‑Learn, PyTorch, Pandas, NumPy
+
 <!--
 **maryam1381/maryam1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
