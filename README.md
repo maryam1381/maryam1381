@@ -5,7 +5,7 @@ I'm Maryam. Machine Learning & AI enthusiast.
 Interests:
 - Machine Learning
 - Deep Learning
-- NLP
+- Image Processing
 - Data Science
 
 Selected Projects
